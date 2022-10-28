@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1663861652 source:c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\scythe\stal_ropa.cpp
+	"nagl.h"
+
+1663778107 c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\scythe\nagl.h
+	"h.h"
+
+1660850258 c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\scythe\h.h
+	<conio.h>
+	<iostream>
+
+1663861644 source:c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\scythe\zboze_drewno.cpp
+	"nagl.h"
+
+1663861820 source:c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\stal_ropa.cpp
+	"nagl.h"
+
+1664025388 c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\nagl.h
+	"h.h"
+
+1660850258 c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\h.h
+	<conio.h>
+	<iostream>
+
+1663861820 source:c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\zboze_drewno.cpp
+	"nagl.h"
+
+1664025746 source:c:\users\pan b³a¿ej\documents\cpp\6.17_kilka_plikow\main.cpp
+	"nagl.h"
+
